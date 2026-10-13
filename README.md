@@ -1,3 +1,4 @@
+<img width="1270" height="712" alt="Screenshot 2026-10-13 152217" src="https://github.com/user-attachments/assets/9873d8d2-7996-4859-ac71-f5817ac0f5c5" />
 # Auto Mooch Reddit
 
 A separate Windows Python GUI with a Playwright worker for CSV-driven Reddit text posts. It uses a private persistent browser profile and never stores your password in source code.
